@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Goshaker/Docker-compose:1
+          tags: ghcr.io/Goshaker/Docker-compose
